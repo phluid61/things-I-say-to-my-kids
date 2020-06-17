@@ -8,6 +8,9 @@
 * Just because {something worse} exists, doesn't make {this thing} less
   bad.
 
+* Is it worth arguing over? / Is it worth the amount of energy you're
+  putting into arguing over it?
+
 ## As a Dad
 
 * Half of you is half of me.
