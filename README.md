@@ -8,8 +8,11 @@
 * Just because {something worse} exists, doesn't make {this thing} less
   bad.
 
-* Is it worth arguing over? / Is it worth the amount of energy you're
+* Is it worth arguing over? // Is it worth the amount of energy you're
   putting into arguing over it?
+
+* I'm not very interested in how we got here; I'm much more interested
+  in working out where we go next, and how we get there.
 
 ## As a Dad
 
