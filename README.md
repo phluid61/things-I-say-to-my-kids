@@ -1,9 +1,10 @@
 # Things I Say to My Kids
 
 * Was there any way that {that thing you did} could have made things
-  better? (_No_) Could it have made things worse? (_Yes_) Why would you
-  do something that could only make things worse, and not make them
-  better?
+  better? (_No_) \
+  Could it have made things worse? (_Yes_) \
+  Why would you do something that could only make things worse, and not
+  make them better?
 
 * Just because {something worse} exists, doesn't make {this thing} less
   bad.
@@ -12,7 +13,7 @@
   putting into arguing over it?
 
 * I'm not very interested in how we got here; I'm much more interested
-  in working out where we go next, and how we get there.
+  in where we go next, and how we get there.
 
 ## As a Dad
 
