@@ -15,7 +15,7 @@
 * I'm not very interested in how we got here; I'm much more interested
   in where we go next, and how we get there.
 
-* {Ask a question} (I don't know) \
+* {Ask a question} (_I don't know_) \
   I'm not asking because it's something you should know, I'm asking
   because it's something you need to choose/decide/find out.
 
