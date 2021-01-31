@@ -15,9 +15,15 @@
 * I'm not very interested in how we got here; I'm much more interested
   in where we go next, and how we get there.
 
-* {Ask a question} (_I don't know_) \
+* {A question?} (_I don't know_) \
   I'm not asking because it's something you should know, I'm asking
   because it's something you need to choose/decide/find out.
+
+## Things I've Only Said Once or Twice
+
+* The reward for doing the right thing is that the right thing gets done.
+
+* If we do things to make each other happy, we increase the happiness.
 
 ## As a Dad
 
